@@ -30,7 +30,7 @@ public class Main {
         );
         System.out.println(c1.getRadus());
         c1.setRadus(-21);
-        System.out.println(c1.getRadus());
+        System.out.println(c1.getRadus()) ;
 
 
     }

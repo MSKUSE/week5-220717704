@@ -40,7 +40,7 @@ public class rectangle {
             this.sideB = 0;
             System.out.println("sideB can't be negative");
         }else {
-            this.sideB = sideB;
+            this.sideB = sideB ;
         }
         this.sideB = sideB;
     }

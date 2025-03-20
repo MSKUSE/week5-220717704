@@ -11,7 +11,7 @@ public class point {
     }
     public point(int xy){
         this.xCood = xy;
-        this.yCood = xy;
+        this.yCood = xy ;
 
     }
 }

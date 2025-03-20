@@ -12,7 +12,7 @@ public class circle {
     }
 
     public void setCenter(point center) {
-        this.center = center;
+        this.center = center ;
     }
 
     public int getRadus() {
